@@ -1,0 +1,8 @@
+@theme "/home/diamons/.config/rofi/theme.rasi"
+
+configuration {
+  display-drun: "Application";
+  drun-display-format: "{icon} {name}";
+  font: "JetBrainsMono Nerd Font Medium 12.5";
+  show-icons: true;
+}
